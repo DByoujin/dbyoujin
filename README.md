@@ -3,6 +3,6 @@
 <h3 align="center">미래로 도약하다. Esoft, korea 대표 김정혁 입니다 :></h3>
 
 ## 연락처
-[![Discord](https://discord.c99.nl/widget/theme-3/775684170650877952.png)](http://discord.com/users/775684170650877952)
+[![Discord](https://discord.c99.nl/widget/theme-3/1169632995360124948.png)](http://discord.com/users/1169632995360124948)
 
-Mail : dbyoujin137@gmail.com
+Mail : help@esoftkorea.co.kr
