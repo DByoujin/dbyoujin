@@ -3,5 +3,5 @@
 <h3 align="center">미래로 도약하다. Esoft, korea 대표 김정혁 입니다 :></h3>
 
 ## 연락처
-Company Mail : help@esoftkorea.co.kr
-Personal Mail : dbyoujin@dbyoujin.kr
+<p>Company Mail : help@esoftkorea.co.kr</p>
+<p>Personal Mail : dbyoujin@dbyoujin.kr</p>
